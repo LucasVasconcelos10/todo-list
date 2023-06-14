@@ -11,6 +11,7 @@
   "dependencies": {
     "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
+    "coffescript": "^0.0.1-security",
     "date-fns": "^2.30.0",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
@@ -22,6 +23,6 @@
     "react-dom": "18.2.0",
     "remark": "^14.0.3",
     "remark-html": "^15.0.2",
-    "tailwindcss": "3.3.2"
+    "tailwindcss": "^3.3.2"
   }
 }
